@@ -1,0 +1,16 @@
+{
+  "name": "cloudinarypractice",
+  "version": "1.0.0",
+  "description": "Activity #4 - Cloudinary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrián y Mariano",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.27.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}
